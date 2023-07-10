@@ -2,4 +2,4 @@
 for ALX course
 
 
-##PRJECT NOTES
+PRJECT NOTES
